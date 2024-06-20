@@ -1,11 +1,11 @@
 import React from 'react';
 
-const channelContainer = () => {
+const ChannelContainer = () => {
   return (
     <div>
-      channelContainer
+      ChannelContainer
     </div>
   )
 }
 
-export default channelContainer;
+export default ChannelContainer;
